@@ -1,0 +1,232 @@
+﻿—--------------- Ticket Issue—------------------
+
+
+1. AN20SEPRUHDAC/ASV or SN20SEPRUHDAC/ASV OR 1BGAD20SEPRUHDAC
+2. SS1T1
+3. NM1BHUYAN/MDMOJAHID MR
+4. AP;TKOK
+5. RFP;ER
+6. ER
+7. IR
+8. SRDOCSHK1-P-BGD-A012345678-BGD-04FEB96-M-13FEB33-BHUYAN/MOJAHID MR/H
+9. SRCTCM-966574819784/EN
+10. FM07
+11. FP CASH MOJAHID
+12. RFP;ER
+13. ER
+14. IR
+15. RT
+16. TTP
+
+
+
+
+
+
+
+
+
+
+* Some Important Topics need to know of Amadeus
+
+
+
+
+
+
+= Amadeus Basic Command.
+
+
+= Amadeus Booking Command.
+
+
+= Amadeus PNR Creation.
+
+
+= Add Ticket Time Limit
+
+
+= Add pricing Amadeus.
+
+
+= Add WheelChair
+
+
+= Add Meal PNR
+
+
+= Add Baby Basinet and how to add basinet.
+
+
+= Add Seat Amadeus.
+
+
+= Add Seat Amadeus Manually.
+
+
+= Ticket issue command.
+
+
+= Ticket Void Command.
+
+
+= Ticket Reissue Command.
+
+
+= Ticket Refund command.
+
+
+= All type of REMARKS in Amadeus and How to retrieve them
+
+
+=  add OSI in Amadeus 
+
+
+= check Flight information, Terminals & Classes
+
+
+= Check Minimum connecting time.
+
+
+= Understand Image ticket from ticket.
+
+
+= Retrieve Commands amadeus
+
+
+= Check Fare Rules amadeus 
+
+
+= FQD commands 
+
+
+= Smart flow run (Automatic seat)
+
+
+= How to check cancellation and Changes.
+
+
+= How to check Ticket Status
+
+
+= How to check pnr status 
+
+
+= How to Read Fare Rules
+
+
+= Special Cases Fare Rules  
+
+
+= Most Difficult Fare Rules 
+
+
+= How to do Schedule Changes 
+
+
+= What is Purge PNR?
+
+
+= Queue Commands in amadeus 
+
+
+= How to find out REFUND amount in ticket
+
+
+= Cancellation - Refundable and Non refundable scenarios 
+
+
+= Changes in amadeus ticket manually.
+
+
+= ATC - Automatic ticket changer.
+
+
+= Shortcut Command in Amadeus 
+
+
+= How to Replicate or Duplicate a PNR
+
+
+= Why & How to add Ghost Segment in Amadeus 
+
+
+= How to send email in Amadeus 
+
+
+= Not just Seat breaking | Strange way to find Cheapest fare
+
+
+= How to find Cheapest Price in Airlines without breaking seat 
+
+
+= How to find the cheapest fare of any Airlines 
+
+
+= More then 10 uses of "AC" command 
+
+
+= Use of FXD command without Availability 
+
+
+= What is Retention Line | How to add Retention line 
+
+
+= Amadeus Long Sell Command 
+
+
+= How to add Passport Details & CTCM/CTCE in Amadeus 
+
+
+= How to find out the cheapest fare in Business and First class (55)
+
+
+= Baggage Issuance | Electronic Miscellaneous Document
+
+
+= Automatic Reissue | How to exchange & reissue the ticket with EMD
+
+
+= How to issue and Void a ticket in Amadeus 
+
+
+= Segment Priced Ticket issuance for Business class in Amadeus 
+
+
+= Special Pricing Command | Baggage Fare | Child Infant & Adult Fare without Name 
+
+
+= Manual and Automatic Refunds | How to Void a Refunded Ticket 
+
+
+= How to add BAG EMD in Amadeus 
+
+
+= Special Amadeus command to Open PNR’s List 
+
+
+= How to add SEAT EMD in Amadeus 
+
+
+= Complete Amadeus ATC Reissuance Guide | Correction Video Amadeus ticket changer 
+
+
+= Extended Security - ES Command and RP command Ticket Issuance & Extra Access 
+
+
+= Amadeus 58 All Airlines info. in 1 video | Hub cities Airline Codes 
+
+
+= How to issue tickets without issuance access of any airline 
+
+
+= How to Manually reissue tickets in Amadeus 
+
+
+= How to Manually Reissue Ticket with EMD 
+
+
+= Master NDC Fare in Amadeus GDS: Fare Comparison, PNR, Ticketing, Reissue & Refund 
+
+
+=
